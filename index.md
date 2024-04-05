@@ -5,4 +5,7 @@
 ``` C#
 string strHalloWorld= "Hallo Git!"
 ```
+- [x] Learn more Git
+- [ ] Make money
+- [ ] continue 
 This is a meaningful coommit message
